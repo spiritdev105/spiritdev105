@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Creative & Sensitive Full-Stack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Full-Stack Web & Blockchain Developer</h1>
 
 Nice to meet you!
 <br/>
-I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain technology.
+I'm a ⭐️passionate and 🚀adventurous Full-Stack Web & Blockchain developer having vast experience with blockchain technology.
 I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Juno, etc.
 
 <h1 align="center">
